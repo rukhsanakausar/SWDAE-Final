@@ -589,9 +589,9 @@ def main():
             st.latex(latex_str)
 
     #Add footer text
-    st.markdown("---")
-    st.write("© 2025 Streamlit Water Network Demo | [GitHub Repository](Abdullah-Afzal-00/Water_Networks_App)")
-    st.write("Built by [Abdullah Afzal](https://github.com/Abdullah-Afzal-00/)")
+     #   st.markdown("---")
+      #  st.write("© 2025 Streamlit Water Network Demo | [GitHub Repository](Abdullah-Afzal-00/Water_Networks_App)")
+     #   st.write("Built by [Abdullah Afzal](https://github.com/Abdullah-Afzal-00/)")
 
 
 if __name__ == "__main__":
